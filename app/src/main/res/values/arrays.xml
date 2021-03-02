@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>WhatssApp</item>
+        <item>Youtube</item>
+        <item>Twitter</item>
+        <item>Linkedin</item>
+        <item>Snapchat</item>
+        <item>Skype</item>
+    </string-array>
+
+    <integer-array name="images">
+        <item>@drawable/step_one_1</item>
+        <item>@drawable/step_two_1</item>
+        <item>@drawable/step_one_2</item>
+        <item>@drawable/step_two_2</item>
+        <item>@drawable/step_three_2</item>
+        <item>@drawable/step_one_3</item>
+        <item>@drawable/step_two_3</item>
+        <item>@drawable/step_three_3</item>
+    </integer-array>
+
+    <integer-array name="colors">
+        <item>@color/roseStart</item>
+        <item>@color/roseEnd</item>
+        <item>@color/blueStart</item>
+        <item>@color/blueEnd</item>
+        <item>@color/greenStart</item>
+        <item>@color/greenEnd</item>
+        <item>@color/purpleStart</item>
+        <item>@color/purpleEnd</item>
+    </integer-array>
+</resources>
